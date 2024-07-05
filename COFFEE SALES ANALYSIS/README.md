@@ -1,9 +1,12 @@
-![Coffee Shop Sales](Complete-Power-BI-folder\COFFEE SALES ANALYSIS\coffee.jpg)
+
 # Coffee Shop Sales Analysis
 
 ## Client Information
 - **Client:** Starbucks
 - **Location:** Houston, Texas
+![Coffee Shop Sales](C:\Users\test\OneDrive\Desktop\PowerBi\Complete-Power-BI-folder\COFFEE SALES ANALYSIS\coffee.jpg)
+
+
 
 ## Project Meeting
 - **Date:** June 29, 2024
