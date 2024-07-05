@@ -1,4 +1,4 @@
-
+![alt text](coffee.jpg)
 # Coffee Shop Sales Analysis
 
 ## Client Information
