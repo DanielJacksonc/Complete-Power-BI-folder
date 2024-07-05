@@ -3,7 +3,6 @@
 
 ## Client Information
 - **Client:** Starbucks
-![Coffee Shop Sales](Complete-Power-BI-folder/COFFEE SALES ANALYSIS/coffee.jpg)
 
 - **Location:** Houston, Texas
 
