@@ -1,3 +1,4 @@
+![Coffee Shop Sales](COFFEE SALES ANALYSIS\coffee.jpg)
 # Coffee Shop Sales Analysis
 
 ## Client Information
